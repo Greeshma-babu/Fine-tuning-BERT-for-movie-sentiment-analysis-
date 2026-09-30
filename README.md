@@ -6,8 +6,8 @@ A simple NLP project that fine-tunes a pretrained **BERT** model for movie revie
 
 This project uses **BERT (`bert-base-uncased`)** and the **IMDb movie review dataset** to classify movie reviews as:
 
-* 😊 Positive
-* 😞 Negative
+*  Positive
+*  Negative
 
 The pretrained BERT model is fine-tuned on labeled movie reviews and then used to predict the sentiment of new reviews.
 
