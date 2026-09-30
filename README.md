@@ -66,6 +66,10 @@ Install the required libraries:
 ```bash
 pip install transformers datasets torch scikit-learn accelerate
 ```
+or
+```bash
+pip install -r requirements.txt
+```
 
 ## Run the Project
 
